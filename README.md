@@ -1,6 +1,6 @@
 # shoppingapp
 
-这是一个手机端生鲜app
+这是一个手机端蔬果app
 
 
 
